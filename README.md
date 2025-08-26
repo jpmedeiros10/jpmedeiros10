@@ -28,3 +28,12 @@ at the moment :
 <img align="left" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin-logo"</img>
 </a>
 </p>
+
+<br>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmedeiros10)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmedeiros10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
