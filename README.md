@@ -16,4 +16,15 @@ at the moment :
 <li> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"</img> </li>
 <li> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo"</img> </li>
 </lu>
-
+<br>
+🌍 Where to find me:
+<br>
+<br>
+<p>
+<a href="https://www.instagram.com/jpmedeiros_/"> 
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="insta-logo"</img>  
+</a>
+<a href="www.linkedin.com/in/jpmedeiros10">
+<img align="left" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin-logo"</img>
+</a>
+</p>
