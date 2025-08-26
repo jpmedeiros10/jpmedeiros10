@@ -24,7 +24,7 @@ at the moment :
 <a href="https://www.instagram.com/jpmedeiros_/"> 
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="insta-logo"</img>  
 </a>
-<a href="www.linkedin.com/in/jpmedeiros10">
+<a href="https://www.linkedin.com/in/jpmedeiros10/">
 <img align="left" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin-logo"</img>
 </a>
 </p>
